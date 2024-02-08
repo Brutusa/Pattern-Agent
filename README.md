@@ -7,3 +7,10 @@ Read the [PDF](https://github.com/Brutusa/PatternAgent/blob/master/Andujar%20Bru
 ![Screenshot of program design by Andujar Brutus](/screenshots/AIagent2.png)
 ![Screenshot of program design by Andujar Brutus](/screenshots/AIagent3.png)
 ![Screenshot of program design by Andujar Brutus](/screenshots/AIagent4.png)
+
+
+GUI made with React.js, Axios.js, & TypeScript
+
+Backend made with Java & SpringBoot
+
+Programmed by Andujar Brutus
