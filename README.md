@@ -1,4 +1,4 @@
-# Andujar Brutus' AI Agent
+# AI Agent
 Read the [PDF](https://github.com/Brutusa/PatternAgent/blob/master/Andujar%20Brutus%20AI%20Agent.pdf) for more information.
 
 # Screenshots
@@ -11,6 +11,6 @@ Read the [PDF](https://github.com/Brutusa/PatternAgent/blob/master/Andujar%20Bru
 
 GUI made with React.js, Axios.js, & TypeScript
 
-Backend made with Java & SpringBoot
+Backend made with Java & Spring MVC
 
 Programmed by Andujar Brutus
